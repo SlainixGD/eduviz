@@ -2,6 +2,10 @@
 
 EduViz is a Python module for creating interactive educational visualizations.
 
+## Version
+
+You will need to use Python 3.8 or above.
+
 ## Installation
 
 You can install the required dependencies with:
