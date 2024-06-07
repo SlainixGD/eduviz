@@ -23,4 +23,4 @@ circle.render()
 
 ## More
 
-For more details, refer to the documentation.
+For more details, contact me at contact@slainix.fr or @slainix on discord.
