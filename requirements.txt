@@ -1,0 +1,5 @@
+manim
+numpy
+matplotlib
+pyperclip
+sphinx
