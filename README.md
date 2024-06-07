@@ -8,7 +8,6 @@ You can install the required dependencies with:
 
 ```sh
 pip install -r requirements.txt
-Usage
 ```
 
 ## Exemple
@@ -22,6 +21,6 @@ circle = CircleVisualization(radius=5)
 circle.render()
 ```
 
-# More
+## More
 
 For more details, refer to the documentation.
